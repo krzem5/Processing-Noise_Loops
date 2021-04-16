@@ -1,1 +1,3 @@
-start "" "projects/Processing-Noise_Loops/index/index.pde"
+@echo off
+cls
+python build.py %*
